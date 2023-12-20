@@ -1,5 +1,11 @@
-- 👋 Hey there, my name is Csabi!
-- 🇭🇺 I'm from Hungary, and I work as a Full-Stack Developer
+# ABOUT ME
+- 👋 Hey there, my name is Csaba Nyírő
+- 🇭🇺 I'm from Hungary, and I work as a Backend Developer
+
+> CEO of [Trophien](https://www.trophien.com) and CTO of [Cruspie](https://www.cruspie.com)
+
+> I'm a Backend developer, mainly using NodeJS
+
 
 <!---
 Csabatom/Csabatom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
