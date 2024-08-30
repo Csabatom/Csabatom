@@ -2,7 +2,7 @@
 - 👋 Hey there, my name is Csaba Nyírő
 - 🇭🇺 I'm from Hungary, and I work as a Backend Developer
 
-> CEO of [Trophien](https://www.trophien.com) and CTO of [Cruspie](https://www.cruspie.com)
+> CEO of [Ubives](https://www.ubives.com).
 
 > I'm a Backend developer, mainly using NodeJS
 
